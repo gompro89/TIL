@@ -14,7 +14,7 @@ ex)<br>
 class DataManager: NSObject {<br>
 	 public func example() {}<br>
 	 <br>
- 함수를 포함하고 있는 클래스에도 public 달아줘야한다.
+ 함수를 포함하고 있는 클래스에도 public 달아줘야한다.<br>
 ex)<br>
 public class DataManager: NSObject {<br>
 	 public func example() {}<br>
