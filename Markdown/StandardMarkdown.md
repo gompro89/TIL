@@ -1,7 +1,9 @@
 
 Standard Markdown
 ====
+
 <br>
+
 ##Header
 ~~~~
 This is an H1
@@ -10,7 +12,9 @@ This is an H1
 ex)
 >This is an H1
 >=============
+
 <br>
+
 ##Header Font
 ~~~~
 # This is an H1
