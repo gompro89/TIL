@@ -1,7 +1,7 @@
 tar란?
 ====
 ####tar, tar.gz를 압축하거나 풀어야 할 때 사용하는 명령어
-
+<br>
 1. tar
 =====
 ###### *예제의 압축된 파일명은 abc, 압축할 폴더명은 cab
@@ -18,6 +18,7 @@ $ tar -xvf abc.tar
 
 2. tar.gz
 ====
+<br>
 - 압축
 ~~~~
 $ tar -zcvf abc.tar.gz cab
@@ -26,9 +27,10 @@ $ tar -zcvf abc.tar.gz cab
 ~~~~
 $ tar -zxvf abc.tar.gz
 ~~~~
-
+<br>
 3. Tip!
 ====
+<br>
 옵션|설명
 ---|-----------------------------
 -c | 파일을 tar로 묶기<br>
