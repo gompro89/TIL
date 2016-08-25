@@ -1,7 +1,7 @@
 
 Standard Markdown
 ====
-
+<br>
 ##Header
 ~~~~
 This is an H1
@@ -10,7 +10,7 @@ This is an H1
 ex)
 >This is an H1
 >=============
-
+<br>
 ##Header Font
 ~~~~
 # This is an H1
@@ -23,6 +23,8 @@ ex)
 ># This is an H1
 >## This is an H2
 >###### This is an H6
+
+<br>
 
 ##Blockquotes
 ~~~~
@@ -38,6 +40,8 @@ ex)
 > > This is nested blockquote.
 >
 > Back to the first level.
+
+<br>
 
 ##Lists
 
@@ -73,6 +77,7 @@ ex)
 * Blue
 * Green
 
+<br>
 
 ##Code blocks
 ~~~~
@@ -81,6 +86,8 @@ ex)
 ex)
 
     This is codeblock (-4 spaces)
+
+<br>
 
 ##Horizontal Rules
 ~~~~
@@ -101,6 +108,8 @@ ex)
 *****
 - - - -
 ---------------------------------------
+
+<br>
 
 ##Links
 ~~~~
@@ -130,6 +139,8 @@ ex)
   [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
   [msn]:    http://search.msn.com/    "MSN Search"
 
+<br>
+
 ##Emphasis
 ~~~~
 *single asterisks*
@@ -146,15 +157,21 @@ _single underscores_
 **double asterisks**
 __double underscores__
 
+<br>
+
 ##Code
      Use the `printf()` function.
 ex)
 >Use the `printf()` function.
 
+<br>
+
 ##Email
     Contact to <example@example.com>.
 ex)
 >Contact to <example@example.com>.
+
+<br>
 
 ##Images
 ~~~~
