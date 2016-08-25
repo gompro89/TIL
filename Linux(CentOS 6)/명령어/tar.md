@@ -1,8 +1,9 @@
 #tar
 tar, tar.gz를 압축하거나 풀어야 할 때 사용하는 명령어
 <br><br>
-*예제의 압축된 파일명은 abc, 압축할 폴더명은 cab
+
 ##tar
+*예제의 압축된 파일명은 abc, 압축할 폴더명은 cab
 ###압축
 $ tar -cvf abc.tar cab
 ###압축풀기
